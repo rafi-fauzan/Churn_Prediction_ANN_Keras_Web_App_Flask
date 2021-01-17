@@ -1,2 +1,2 @@
 # Churn_Prediction_ANN_Keras_Web_App_Flask
-Churn Prediction based on ANN Model web app
+A Web app of Churn Prediction with an ANN Model
